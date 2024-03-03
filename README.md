@@ -14,8 +14,9 @@ Dataset and Code for City-Facade
 
 ## Data Preparation
 (1) View and Download the City-Facade training / testing for building facade segmentation.
+
 (2) Put the data in the corresponding folders, which are organized as follows.
-<code>
+``
 data
 |--City-Facade
 |  |--train
@@ -31,4 +32,4 @@ data
 |  |  |--XHR
 |  |  |--YWR
 ...
-</code>
+``
