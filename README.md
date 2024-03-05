@@ -47,7 +47,16 @@ data
 ````
 ## Model Zoo
 
+|Method|Model|OA|mIoU|
+|-|-|-|-|
+|PointNet|PointNet|-|-|
+|PointNet++|PointNet++|-|-|
+|DGCNN|DGCNN|-|-|
+|DeepGCNs|DeepGCNs|-|-|
+|ASSANet|ASSANet-L|-|-|
+|PointNeXt|PointNeXt-L|-|-|
+|PointVector|-|-|
+|PointMetaBase|PointMetaBase-L|-|-|
+
 ## Organizations
-<img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%">
-![SYSU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png){:width="400px" height="400px"}
-![XMU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png)
+<img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png" alt="XMU" width="50%" height="50%">
