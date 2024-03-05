@@ -1,4 +1,4 @@
-![?](\log\City-Facade.png)
+![?]([\log\City-Facade.png](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/City-Facade.png))
 # City-Facade 
 Dataset and Code for City-Facade
 
