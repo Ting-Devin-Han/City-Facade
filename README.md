@@ -6,6 +6,8 @@ This is the Dataset and Code of City-Facade proposed by our paper "City-Facade: 
 
 ## City-Facade Preview
 
+<img src="" alt="Xiamen">
+
 ## Dataset Download
 
 Please enjoy this dataset we have provided. Click here to download.
