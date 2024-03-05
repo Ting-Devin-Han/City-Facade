@@ -48,5 +48,5 @@ data
 ## Model Zoo
 
 ## Organizations
-![SYSU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png){:width="50%" height="50%"}
+![SYSU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png){:width="400px" height="400px"}
 ![XMU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png)
