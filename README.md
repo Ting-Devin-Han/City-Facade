@@ -47,5 +47,11 @@ data
 ````
 ## Model Zoo
 
+|Model|OA|mIoU|
+|-|-|-|
+|PointNet|男|75|
+|PointNet++|女|79|
+|ASSANet|男|92|
+
 ## Organizations
 <img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png" alt="XMU" width="50%" height="50%">
