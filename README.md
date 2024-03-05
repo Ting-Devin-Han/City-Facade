@@ -48,4 +48,4 @@ data
 ## Model Zoo
 
 ## Organizations
-![City-Facade-logo](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/City-Facade.png)![City-Facade-logo](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/City-Facade.png)
+![SYSU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png)![XMU](https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png)
