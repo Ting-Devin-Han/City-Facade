@@ -6,7 +6,7 @@ This is the Dataset and Code of City-Facade proposed by our paper "City-Facade: 
 
 ## City-Facade Preview
 
-<img src="" alt="Xiamen">
+<img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/Pictures/Xiamen.png" alt="Xiamen">
 
 ## Dataset Download
 
