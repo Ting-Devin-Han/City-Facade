@@ -8,6 +8,9 @@ This is the Dataset and Code of City-Facade proposed by our paper "City-Facade: 
 
 <img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/Pictures/Xiamen.png" alt="Xiamen">
 
+<video src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/demo/CAR.mp4" autoplay="true" width="800" height="600">
+</video>
+
 ## Dataset Download
 
 Please enjoy this dataset we have provided. Click [here](https://drive.google.com/drive/folders/1EX0Dq3_Xj8WcO4CdRxdbaCAVtM4IGS9g?usp=sharing) to download small examples.
