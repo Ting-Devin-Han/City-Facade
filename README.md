@@ -70,4 +70,4 @@ data
 |PointMetaBase|PointMetaBase-L|86.27|39.34|
 
 ## Organizations
-<img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png" alt="XMU" width="50%" height="50%">
+<img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png" alt="XMU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/University%20of%20Waterloo.jpg" alt="Water" width="50%" height="50%">
