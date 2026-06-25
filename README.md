@@ -71,3 +71,18 @@ data
 
 ## Organizations
 <img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Sun%20Yat-sen%20University.png" alt="SYSU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/Xiamen%20University.png" alt="XMU" width="50%" height="50%"><img src="https://github.com/Ting-Devin-Han/City-Facade/blob/main/logo/University%20of%20Waterloo.jpg" alt="Water" width="50%" height="50%">
+
+## Citation
+Our work has been accepted into ISPRS Journal of Photogrammetry and Remote Sensing, please consider citing our work with that reference once it is available! [paper](https://www.sciencedirect.com/science/article/pii/S0924271626000031)
+````
+@article{chen2026city,
+  title={City-Facade: A city-level large-scale point cloud building facade dataset for semantic \& instance segmentation},
+  author={Chen, Yiping and Li, Jonathan and Han, Ting and Feng, Huifang and Chen, Jun and Wang, Cheng},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={232},
+  pages={675--688},
+  year={2026},
+  publisher={Elsevier}
+}
+````
+
