@@ -18,9 +18,13 @@ This is the Dataset and Code of City-Facade proposed by our paper "City-Facade: 
 
 ## Dataset Download
 
-Please enjoy this dataset we have provided. Click [here](https://drive.google.com/drive/folders/1EX0Dq3_Xj8WcO4CdRxdbaCAVtM4IGS9g?usp=sharing) to download small examples.
+Please enjoy this dataset we have provided. 
 
-To access the full Dataset, you are welcome to request access to the data owners by email: Ting Han: hant23@mail2.sysu.edu.cn
+Click [here](https://drive.google.com/drive/folders/1EX0Dq3_Xj8WcO4CdRxdbaCAVtM4IGS9g?usp=sharing) to download small examples.
+
+Click [BAIDU NETDISK]([https://pan.baidu.com/s/1ArP_tUA5ixc0uJSfJz9bSQ?pwd=f3ms) or [GOOGLE DRIVE]([https://pan.baidu.com/s/1ArP_tUA5ixc0uJSfJz9bSQ?pwd=f3ms) to download Full Dataset.
+
+To access the Original Dataset, you are welcome to request access to the data owners by email: Ting Han: hant23@mail2.sysu.edu.cn
 
 Disclaimer: The dataset is available for academic research purposes only. To access the data, please contact the data owners using your institution's email address.
 
